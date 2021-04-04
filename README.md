@@ -4,4 +4,4 @@
  - 🧑🏼‍💻 Currently working on Self-Supervised Learning on Histopathology Images
  - 🌱 Learning Native iOS Development (Swift), Node.JS, Express and MongoDB. 
  - 📮 You can reach me from my email ayhokuyan@gmail.com
- - 📌 and from my [LinkedIn profile](https://www.linkedin.com/in/ayhan-okuyan-126435131/) 
+ - 📌 and from my [LinkedIn profile](https://www.linkedin.com/in/ayhokuyan/) 
