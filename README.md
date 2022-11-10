@@ -6,3 +6,4 @@
  - 📮 You can reach me from my email ayhokuyan@gmail.com
  - 📌 and from my [LinkedIn profile](https://www.linkedin.com/in/ayhokuyan/) 
  - 👨🏼‍💻 Currently working at [SmartAlpha AI](https://smartalpha.ai/r-and-d.html), specifically on [nerveblox](https://nerveblox.com) by building and maintaning data/DL pipelines for production. 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
