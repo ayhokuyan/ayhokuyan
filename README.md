@@ -8,3 +8,5 @@
  - 👨🏼‍💻 Currently working at [SmartAlpha AI](https://smartalpha.ai/r-and-d.html), specifically on [nerveblox](https://nerveblox.com) by building and maintaning data/DL pipelines for production. 
  
 [![Ayhan's github stats](https://github-readme-stats.vercel.app/api?username=ayhokuyan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhokuyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
